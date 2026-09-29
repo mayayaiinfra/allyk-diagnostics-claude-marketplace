@@ -1,0 +1,21 @@
+{
+  "name": "allyk-diagnostics",
+  "owner": {
+    "name": "MAYAYAI",
+    "url": "https://allyk.app"
+  },
+  "metadata": {
+    "description": "Diagnostics-only plugins from MAYAYAI for founders and entrepreneurs."
+  },
+  "plugins": [
+    {
+      "name": "allyk-diagnostics",
+      "description": "Choose the next customer assumption to test through ALLYK Diagnostics.",
+      "source": {
+        "source": "github",
+        "repo": "mayayaiinfra/allyk-diagnostics-claude-plugin"
+      },
+      "category": "productivity"
+    }
+  ]
+}
